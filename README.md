@@ -1,1 +1,1 @@
-This repository has code to run an app that will calculate the volume for a Continuous Stirred Tank Reactor and a Plug Flow Reactor. As well as plotting the conversion profile for both reactors as a means to provide a visual comparison.
+This repository has code to run a streamlit app that will calculate the volume for a Continuous Stirred Tank Reactor and a Plug Flow Reactor. As well as plotting the conversion profile for both reactors as a means to provide a visual comparison.
